@@ -18,67 +18,24 @@
 
 ---
 
-# 🛠 Tech Stack
 
-## 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cpp" />
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css,react,nextjs,nodejs,bun,express,hono,postgresql,mongodb,prisma,docker,git,github,vscode,npm" />
 </p>
 
-## 🌐 Web Fundamentals
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtual_Machines-FF6C37?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-
----
-
-# ⚛️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
-
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
-
----
-
-# 🧠 Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,hono" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
-</p>
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=data&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-
----
-
-# 🐳 DevOps & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Virtual_Machines-FF6C37?style=for-the-badge&logo=linux&logoColor=white" />
-
----
-
-# 🛠 Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
-<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 ---
 
