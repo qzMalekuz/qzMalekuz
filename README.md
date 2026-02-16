@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- 👋 Hi there -->
+<h1 align="center">Hi there 👋 I'm Zafar (aka qzMalekuz)</h1>
 
-<!--
-**qzMalekuz/qzMalekuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4pNQ6v3cv4nXxk3hI/giphy.gif" width="300" alt="coding gif">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+👨‍💻 I'm a Web Developer and backend engineer focusing on **TypeScript, Node.js, Express, PostgreSQL & WebSockets**.  
+💡 I love building reliable APIs, real-time apps, and scalable backend systems.  
+🏋️‍♂️ Outside coding — I’m into **weights & fitness**, confident that both tech and strength grow with discipline.
