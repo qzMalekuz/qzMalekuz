@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋 I'm Zafar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Backend+Developer;TypeScript+Enthusiast;Building+Scalable+Systems;WebSockets+%7C+APIs+%7C+Databases" />
-</p>
-
-<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ0MXk3OWk5YzMxaDgyOGpoaWhvdjc5OTJjOG85bmdmN3ljazQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" />
 </p>
 
@@ -58,10 +54,10 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=qzMalekuz&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=qzMalekuz&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzMalekuz&layout=compact&theme=tokyonight" />
