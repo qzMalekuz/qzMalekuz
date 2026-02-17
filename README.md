@@ -66,7 +66,7 @@
   <a href="https://www.instagram.com/qzmalekuz">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p>
+</p> 
 
 <p align="center">
 📱 +91 7439091413  
