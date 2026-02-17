@@ -2,7 +2,7 @@
 
 <h1 align="center">This is Zafar 👇  mostly at Night</h1>
 
-<p align="center">
+<p align="center"> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ0MXk3OWk5YzMxaDgyOGpoaWhvdjc5OTJjOG85bmdmN3ljazQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" />
 </p>
 
