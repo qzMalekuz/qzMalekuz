@@ -10,6 +10,7 @@
 
 ## 🚀 About Me
 
+
 🧠 Strong in TypeScript ecosystem  
 🏋️‍♂️ Outside coding — I’m into **weights & fitness**, confident that both tech and strength grow with discipline.
 
