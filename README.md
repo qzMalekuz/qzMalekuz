@@ -72,7 +72,9 @@ Outside coding — I’m into **weights & fitness**, confident that both tech an
 <p align="center">
 📱 +91 7439091413  
 <br>
-📧 zafarrworks@gmail.com
+📧 zafarrworks@gmail.com  
+<br>
+𝕏 https://x.com/qzmalekuz
 </p>
 
 ---
