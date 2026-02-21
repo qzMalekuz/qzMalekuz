@@ -20,7 +20,7 @@ Outside coding — I’m into **weights & fitness**, confident that both tech an
 ---
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css,react,nextjs,nodejs,bun,express,postgresql,mongodb,prisma,docker,git" />
@@ -41,7 +41,7 @@ Outside coding — I’m into **weights & fitness**, confident that both tech an
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=qzMalekuz&theme=tokyonight" />
@@ -49,7 +49,7 @@ Outside coding — I’m into **weights & fitness**, confident that both tech an
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="mailto:zafarrworks@gmail.com">
