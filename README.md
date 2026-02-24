@@ -10,6 +10,7 @@
 
 
 Strong in TypeScript
+
 Weights - Discipline - Meditation.
 
 -  Currently working on backend architecture & realtime systems  
