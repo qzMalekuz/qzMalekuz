@@ -22,10 +22,6 @@ Weights - Discipline - Meditation.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css,react,nextjs,nodejs,express,django,fastapi,postgresql,mongodb,prisma,docker,git,github,bun" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css" />
 </p>
 
