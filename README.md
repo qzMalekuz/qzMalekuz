@@ -21,6 +21,23 @@ Weights - Discipline - Meditation.
 
 ## Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css,react,nextjs,nodejs,bun,express,django,fastapi,postgresql,mongodb,prisma,docker,git" /> <img src="https://skillicons.dev/icons?i=github" /> </p> <p align="center"> <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=data&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Virtual_Machines-FF6C37?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css,react,nextjs,nodejs,bun,express,django,fastapi,postgresql,mongodb,prisma,docker,git" /> 
+  <img src="https://skillicons.dev/icons?i=github" /> 
+</p>
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=data&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Virtual_Machines-FF6C37?style=for-the-badge&logo=linux&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
+</p>
 
 ---
