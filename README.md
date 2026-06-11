@@ -8,13 +8,14 @@
 
 ## About Zafar.
 
+Mobile & Full-Stack Engineer — React Native
 
-Strong in TypeScript
+Weights · Discipline · Dedication
 
-Weights - Discipline - Meditation.
+- Shipping production apps end-to-end to the App Store, Google Play and dApp Store — 10k+ reviews
+- Building cross-platform mobile and full-stack systems, from system design to role-based platforms
+- Exploring on-chain / dApp mobile experiences (Solana)
 
--  Currently working on backend architecture & realtime systems  
--  Exploring distributed systems & performance optimization  
 
 ---
 
