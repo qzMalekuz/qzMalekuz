@@ -12,7 +12,7 @@ Mobile-First Full-Stack Engineer & Product Designer - React Native & Swift
 
 Weights · Discipline · Dedication
 
-- Shipping production apps end-to-end to the App Store, Google Play Store and dApp Store — 10k+ reviews
+- Shipping production apps end-to-end to the App Store, Google Play Store and dApp Store - 10k+ reviews
 - Building cross-platform + native mobile and full-stack systems, from system design to role-based platforms
 - Exploring on-chain / dApp mobile experiences (Solana)
 
