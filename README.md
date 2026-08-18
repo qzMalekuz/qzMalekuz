@@ -8,7 +8,7 @@
 
 ## About Zafar.
 
-Mobile-First Full-Stack Engineer — React Native & Swift
+Mobile-First Full-Stack Engineer & Product Designer - React Native & Swift
 
 Weights · Discipline · Dedication
 
